@@ -1,5 +1,5 @@
 import axios from 'axios';
- const EMPLOYEE_API_BASE_URL = "http://localhost:3030/Employee";
+ const EMPLOYEE_API_BASE_URL = "https://emp-backend-i0ap.onrender.com/Employee";
 // const EMPLOYEE_API_BASE_URL = "http://localhost:9090/employees";
 
 class EmployeeService {
